@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Navigation stylings */
+
+nav {
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    line-height: 30px;
+    
+}
+
+.logo {
+    font-weight: 600;
+}
+
+nav div a span {
+    padding-right: 4px;
+}
+
+.moringa {
+    color: #EC4067;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+
+}
+
+ul {
+    display: flex; 
+    list-style-type: none;
+}
+
+li {
+    padding-left: 40px;
+}
+
+div ul li button {
+    padding: 6px 16px;
+    background: #EC4067;
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+}
+
+/* End Navigation stylings */
