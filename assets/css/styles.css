@@ -116,6 +116,66 @@ div ul li button {
     /******************* End Section One ********************/
 
 
+/******************* Begin Section Two ********************/
+
+.stories {
+    display: inline;
+    margin-right: 5px;
+}
+
+.orientation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.container {
+    width: 50%;
+}
+
+.orientation h2 {
+    font-weight: normal;
+}
+
+.container {
+    position: relative;
+}
+
+.top-right {
+    position: absolute;
+    top: 8px;
+    right: 20px;
+    color: #fff;
+    font-size: smaller;
+}
+
+.bottom-left {
+    position: absolute;
+    bottom: 20px;
+    left: 16px;
+    color: #fff;
+    font-size: smaller;
+}
+
+.orientation-text {
+    width: 50%;
+}
+
+.orientation-text div {
+    width: 70%;
+    padding-left: 50px;
+}
+
+.orientation p {
+    margin-top: 30px;
+}
+
+.orientation button {
+    margin-top: 20px;
+}
+
+/******************* End Section Two ********************/
 
 
 
