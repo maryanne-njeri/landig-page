@@ -95,7 +95,7 @@ div ul li button {
 
     .btn-primary {
         background: #EC4067;
-        padding: 4px 16px;
+        padding: 8px 18px;
         box-shadow:  0px 5px 10px 0px #EC4067;
         color: #fff;
         margin-right: 10px;
@@ -105,7 +105,7 @@ div ul li button {
     
     .btn-outline {
         background: #fff;
-        padding: 4px 22px;
+        padding: 8px 22px;
         color: #EC4067;
         margin-right: 10px;
         border: 1px solid #EC4067;
@@ -192,6 +192,63 @@ div ul li button {
 }
 
 /******************* End Section Two ********************/
+
+/******************* Begin Section Three ********************/
+
+.mentors-heading {
+    margin-top: 50px;
+}
+
+.mentors {
+    display: inline;
+    margin-right: 5px;
+}
+
+.profile {
+    margin-top: 30px;
+    width: 20%;
+}
+
+.profile div {
+    position: relative;
+}
+
+.mentor-name {
+    position: absolute;
+    bottom: 36px;
+    left: 16px;
+    color: #fff;
+    font-size: smaller;
+
+} 
+
+.profile img {
+    width: 100%;
+}
+
+.mentor-bio {
+    padding-left: 10px;
+}
+
+.profile h3{
+    color: #EC4067;
+    font-weight: 500;
+    margin-top: 2px;
+}
+
+.profile p {
+    font-size: small;
+    margin-top: 8px;
+}
+
+.profile button {
+    margin-top: 16px;
+}
+
+
+
+
+/******************* End Section Three ********************/
 
 
 
