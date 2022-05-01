@@ -28,3 +28,4 @@ By the end of the this project, the following tasks **Must** have been completed
 - [X] The web page is visually appealing
 - [X] The project design
 - [X] The page is published/deployed to gh-pages
+- [X] The page is published/deployed to gh-pages
