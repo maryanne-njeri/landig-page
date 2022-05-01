@@ -10,21 +10,21 @@
 
 By the end of the this project, the following tasks **Must** have been completed
 
-- [ ] Correct use of HTML Elements and tags;
-- [ ] p, div, span, header tags, ordered and unordered list tags, img, strong, em
-- [ ] The page incorporates a custom-made stylesheet 
-- [ ] Use of at least 4 of the following styling rules
-- [ ] selectors
+- [X] Correct use of HTML Elements and tags;
+- [X] p, div, span, header tags, ordered and unordered list tags, img, strong, em
+- [X] The page incorporates a custom-made stylesheet 
+- [X] Use of at least 4 of the following styling rules
+- [X] selectors
 - [X] box model
-- [ ] background-color
+- [X] background-color
 - [X] font family
-- [ ] pseudoclasses
-- [ ] strong and em tags
-- [ ] overflow
-- [ ] borders
-- [ ] block elements
-- [ ] Font weight 
-- [ ] Font style
-- [ ] The web page is visually appealing
-- [ ] The project design
-- [ ] The page is published/deployed to gh-pages
+- [X] pseudoclasses
+- [X] strong and em tags
+- [X] overflow
+- [X] borders
+- [X] block elements
+- [X] Font weight 
+- [X] Font style
+- [X] The web page is visually appealing
+- [X] The project design
+- [X] The page is published/deployed to gh-pages
