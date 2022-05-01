@@ -158,6 +158,22 @@ div ul li button {
     font-size: smaller;
 }
 
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    color: #fff;
+    font-size: smaller;
+}
+
+.bottom-right {
+    position: absolute;
+    bottom: 20px;
+    right: 16px;
+    color: #fff;
+    font-size: smaller;
+}
+
 .orientation-text {
     width: 50%;
 }
