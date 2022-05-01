@@ -288,8 +288,25 @@ div ul li button {
 .bike {
     width: 60%;
 }
-
 /* end project */
+
+/* begin Contact */
+.contact h2 {
+    color: #EC4067;
+    font-size: x-larger;
+    font-weight: 500;
+}
+
+.contact p {
+    display: inline;
+    padding-right: 10px;
+}
+
+em a {
+    text-decoration: none;
+    color: #EC4067;
+}
+/* End Contact */
 
 
 
