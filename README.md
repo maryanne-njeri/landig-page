@@ -15,9 +15,9 @@ By the end of the this project, the following tasks **Must** have been completed
 - [ ] The page incorporates a custom-made stylesheet 
 - [ ] Use of at least 4 of the following styling rules
 - [ ] selectors
-- [ ] box model
+- [X] box model
 - [ ] background-color
-- [ ] font family
+- [X] font family
 - [ ] pseudoclasses
 - [ ] strong and em tags
 - [ ] overflow
