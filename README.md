@@ -29,3 +29,12 @@ By the end of the this project, the following tasks **Must** have been completed
 - [X] The project design
 - [X] The page is published/deployed to gh-pages
 - [X] The page is published/deployed to gh-pages
+
+# Project setup instructions
+
+- To use this project,
+- You need to clone this repository to your local computer,
+- In your terminal, navigate to the directory you cloned the this project,
+- Find the index.html, and load it in the browser.
+
+- The CSS, Js and Images are all located in the asset directory within the project
