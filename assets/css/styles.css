@@ -260,6 +260,34 @@ div ul li button {
 
 /* start project */
 
+.heading-container {
+    margin-top: 100px;
+}
+
+.project-heading {
+    display: inline;
+}
+
+.project {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 70px;
+}
+
+.project h3, p, button {
+    margin-top: 20px;
+}
+
+.project h3 {
+    font-size: x-large;
+    font-weight: 500;
+    color: #EC4067;
+}
+
+.bike {
+    width: 60%;
+}
 
 /* end project */
 
