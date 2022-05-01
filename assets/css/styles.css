@@ -204,9 +204,20 @@ div ul li button {
     margin-right: 5px;
 }
 
+.profile-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 50px;
+}
+
 .profile {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     margin-top: 30px;
     width: 20%;
+    /* padding-left: 50px; */
 }
 
 .profile div {
