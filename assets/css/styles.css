@@ -291,6 +291,11 @@ div ul li button {
 /* end project */
 
 /* begin Contact */
+
+.contact {
+    margin: 100px 0;
+}
+
 .contact h2 {
     color: #EC4067;
     font-size: x-larger;
@@ -307,6 +312,21 @@ em a {
     color: #EC4067;
 }
 /* End Contact */
+
+
+/* footer */
+footer {
+    background-color: rgb(244, 240, 240);
+    padding: 20px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+footer span {
+    color: #EC4067;
+    font-size: larger;
+}
+/* end footer */
 
 
 
